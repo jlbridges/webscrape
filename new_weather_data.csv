@@ -1,0 +1,141 @@
+,City,Temperature,Time
+0,Accra,79 °F,Sun 5:35 pm
+1,Edmonton,54 °F,Sun 11:35 am
+2,Nassau,90 °F,Sun 1:35 pm
+3,Addis Ababa,66 °F,Sun 8:35 pm
+4,Frankfurt,64 °F,Sun 7:35 pm
+5,New Delhi,87 °F,Sun 11:05 pm
+6,Adelaide,56 °F,Mon 3:05 am
+7,Guatemala City,77 °F,Sun 11:35 am
+8,New Orleans,86 °F,Sun 12:35 pm
+9,Algiers,80 °F,Sun 6:35 pm
+10,Halifax,68 °F,Sun 2:35 pm
+11,New York,71 °F,Sun 1:35 pm
+12,Almaty,66 °F,Sun 10:35 pm
+13,Hanoi,81 °F,Mon 12:35 am
+14,Oslo,61 °F,Sun 7:35 pm
+15,Amman,81 °F,Sun 8:35 pm
+16,Harare,81 °F,Sun 7:35 pm
+17,Ottawa,75 °F,Sun 1:35 pm
+18,Amsterdam,66 °F,Sun 7:35 pm
+19,Havana,91 °F,Sun 1:35 pm
+20,Paris,77 °F,Sun 7:35 pm
+21,Anadyr,46 °F,Mon 5:35 am
+22,Helsinki,55 °F,Sun 8:35 pm
+23,Perth,57 °F,Mon 1:35 am
+24,Anchorage,48 °F,Sun 9:35 am
+25,Hong Kong,82 °F,Mon 1:35 am
+26,Philadelphia,77 °F,Sun 1:35 pm
+27,Ankara,75 °F,Sun 8:35 pm
+28,Honolulu,73 °F,Sun 7:35 am
+29,Phoenix,93 °F,Sun 10:35 am
+30,Antananarivo,61 °F,Sun 8:35 pm
+31,Houston,81 °F,Sun 12:35 pm
+32,Prague,61 °F,Sun 7:35 pm
+33,Asuncion,70 °F,Sun 2:35 pm
+34,Indianapolis,78 °F,Sun 1:35 pm
+35,Reykjavik,50 °F,Sun 5:35 pm
+36,Athens,89 °F,Sun 8:35 pm
+37,Islamabad,85 °F,Sun 10:35 pm
+38,Rio de Janeiro,72 °F,Sun 2:35 pm
+39,Atlanta,88 °F,Sun 1:35 pm
+40,Istanbul,68 °F,Sun 8:35 pm
+41,Riyadh,99 °F,Sun 8:35 pm
+42,Auckland,52 °F,Mon 5:35 am
+43,Jakarta,80 °F,Mon 12:35 am
+44,Rome,82 °F,Sun 7:35 pm
+45,Baghdad,105 °F,Sun 8:35 pm
+46,Jerusalem,76 °F,Sun 8:35 pm
+47,Salt Lake City,85 °F,Sun 11:35 am
+48,Bangkok,82 °F,Mon 12:35 am
+49,Johannesburg,73 °F,Sun 7:35 pm
+50,San Francisco,65 °F,Sun 10:35 am
+51,Barcelona,81 °F,Sun 7:35 pm
+52,Karachi,88 °F,Sun 10:35 pm
+53,San Juan,86 °F,Sun 1:35 pm
+54,Beijing,59 °F,Mon 1:35 am
+55,Kathmandu,68 °F,Sun 11:20 pm
+56,San Salvador,84 °F,Sun 11:35 am
+57,Belgrade,70 °F,Sun 7:35 pm
+58,Kingston,90 °F,Sun 12:35 pm
+59,Santiago,68 °F,Sun 2:35 pm
+60,Bengaluru,77 °F,Sun 11:05 pm
+61,Kinshasa,77 °F,Sun 6:35 pm
+62,Santo Domingo,89 °F,Sun 1:35 pm
+63,Berlin,68 °F,Sun 7:35 pm
+64,Kiritimati,81 °F,Mon 7:35 am
+65,São Paulo,59 °F,Sun 2:35 pm
+66,Bogota,66 °F,Sun 12:35 pm
+67,Kolkata,81 °F,Sun 11:05 pm
+68,Seattle,56 °F,Sun 10:35 am
+69,Boston,66 °F,Sun 1:35 pm
+70,Kuala Lumpur,79 °F,Mon 1:35 am
+71,Seoul,66 °F,Mon 2:35 am
+72,Brasilia,91 °F,Sun 2:35 pm
+73,Kuwait City,103 °F,Sun 8:35 pm
+74,Shanghai,77 °F,Mon 1:35 am
+75,Brisbane,54 °F,Mon 3:35 am
+76,Kyiv,62 °F,Sun 8:35 pm
+77,Singapore,84 °F,Mon 1:35 am
+78,Brussels,68 °F,Sun 7:35 pm
+79,La Paz,53 °F,Sun 1:35 pm
+80,Sofia,71 °F,Sun 8:35 pm
+81,Bucharest,63 °F,Sun 8:35 pm
+82,Lagos,82 °F,Sun 6:35 pm
+83,St. John's,64 °F,Sun 3:05 pm
+84,Budapest,70 °F,Sun 7:35 pm
+85,Lahore,84 °F,Sun 10:35 pm
+86,Stockholm,61 °F,Sun 7:35 pm
+87,Buenos Aires,50 °F,Sun 2:35 pm
+88,Las Vegas,86 °F,Sun 10:35 am
+89,Suva,62 °F,Mon 5:35 am
+90,Cairo,90 °F,Sun 8:35 pm
+91,Lima,73 °F,Sun 12:35 pm
+92,Sydney,59 °F,Mon 3:35 am
+93,Calgary,50 °F,Sun 11:35 am
+94,Lisbon,93 °F,Sun 6:35 pm
+95,Taipei,79 °F,Mon 1:35 am
+96,Canberra,46 °F,Mon 3:35 am
+97,London,70 °F,Sun 6:35 pm
+98,Tallinn,57 °F,Sun 8:35 pm
+99,Cape Town,63 °F,Sun 7:35 pm
+100,Los Angeles,74 °F,Sun 10:35 am
+101,Tashkent,89 °F,Sun 10:35 pm
+102,Caracas,88 °F,Sun 1:35 pm
+103,Madrid,88 °F,Sun 7:35 pm
+104,Tegucigalpa,81 °F,Sun 11:35 am
+105,Casablanca,90 °F,Sun 6:35 pm
+106,Managua,93 °F,Sun 11:35 am
+107,Tehran,84 °F,Sun 9:05 pm
+108,Chicago,73 °F,Sun 12:35 pm
+109,Manila,78 °F,Mon 1:35 am
+110,Tokyo,75 °F,Mon 2:35 am
+111,Copenhagen,63 °F,Sun 7:35 pm
+112,Melbourne,59 °F,Mon 3:35 am
+113,Toronto,79 °F,Sun 1:35 pm
+114,Dallas,92 °F,Sun 12:35 pm
+115,Mexico City,70 °F,Sun 11:35 am
+116,Vancouver,59 °F,Sun 10:35 am
+117,Dar es Salaam,77 °F,Sun 8:35 pm
+118,Miami,90 °F,Sun 1:35 pm
+119,Vienna,66 °F,Sun 7:35 pm
+120,Darwin,77 °F,Mon 3:05 am
+121,Minneapolis,59 °F,Sun 12:35 pm
+122,Warsaw,64 °F,Sun 7:35 pm
+123,Denver,87 °F,Sun 11:35 am
+124,Minsk,52 °F,Sun 8:35 pm
+125,Washington DC,84 °F,Sun 1:35 pm
+126,Detroit,79 °F,Sun 1:35 pm
+127,Montevideo,50 °F,Sun 2:35 pm
+128,Winnipeg,58 °F,Sun 12:35 pm
+129,Dhaka,89 °F,Sun 11:35 pm
+130,Montréal,73 °F,Sun 1:35 pm
+131,Yangon,84 °F,Mon 12:05 am
+132,Doha,93 °F,Sun 8:35 pm
+133,Moscow,57 °F,Sun 8:35 pm
+134,Zagreb,73 °F,Sun 7:35 pm
+135,Dubai,95 °F,Sun 9:35 pm
+136,Mumbai,78 °F,Sun 11:05 pm
+137,Zürich,68 °F,Sun 7:35 pm
+138,Dublin,64 °F,Sun 6:35 pm
+139,Nairobi,70 °F,Sun 8:35 pm
