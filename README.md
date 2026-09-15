@@ -15,7 +15,7 @@ This project scrapes current weather data for cities around the world from [time
 4. Run the scraper to populate the database:
    - `python webscrape.py`
 5. Launch the dashboard:
-   - `streamlit run steam.py`
+   - `streamlit run streamlit_app.py`
 
 ## Screenshot
 <img width="2249" height="1303" alt="image" src="https://github.com/user-attachments/assets/7ac129c9-8d6d-4c6f-923b-2982723f8165" />
